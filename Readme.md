@@ -7,9 +7,13 @@
 
     $ component install eivindfjeldstad/scrollbar-size
 
-## API
+## Use
 
-   
+```js
+var scrollbarSize = require('scrollbar-size');
+```
+
+That's it!
 
 ## License
 
